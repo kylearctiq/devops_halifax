@@ -2,6 +2,13 @@
 
 links
 
+https://407etrocp.openshift.ca:8443
+
+user1 - uers1
+...
+...
+...
+
 https://github.com/minishift/minishift
 
 https://github.com/RedHatWorkshops
